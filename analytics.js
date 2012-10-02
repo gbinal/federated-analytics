@@ -8,7 +8,7 @@ var _gaq = _gaq || [];
 _gaq.push(['dotGovTracker._setAccount', 'UA-XXXX-X']);
 
 //create a new tracker called "dotGovTracker" and set the account ID
-_gaq.push (['_gat._anonymizeIp']);
+_gaq.push(['_gat._anonymizeIp']);
 
 //record the page view on the new account
 _gaq.push(['dotGovTracker._trackPageview']);
